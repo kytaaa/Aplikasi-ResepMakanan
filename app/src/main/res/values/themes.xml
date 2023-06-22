@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ResepMasakanLampung" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Atur atribut-atribut gaya sesuai kebutuhan Anda -->
+    </style>
+
+</resources>
